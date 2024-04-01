@@ -1,0 +1,3 @@
+F:\changxianrui\CodeField\Learning-DIY-TCP_WEB-master\xnet_tiny_c0000\x64\Debug\xnet.exe
+E:\CodeField\Learning-DIY-TCP_WEB-master\xnet_tiny_c0000\x64\Debug\xnet.exe
+E:\CodeField\Learning-DIY-TCP_WEB-master\xnet_tiny_c\x64\Debug\xnet.exe
